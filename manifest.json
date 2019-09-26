@@ -2,6 +2,7 @@
   "short_name": "Mobile Grupo 4",
   "name": "APLICACIONES MOVILES - GRUPO 4",
   "background_color": "#ff9800",
+  "theme_color": "#ff9800",
   "icons": [
 	   {
 	      "src": "icons/192.png",
